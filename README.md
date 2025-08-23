@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanjana Srivastava</h1>
-<h3 align="center">A final year computer science student</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampriyanjana&label=Profile%20views&color=0e75b6&style=flat" alt="iampriyanjana" /> </p>
 
